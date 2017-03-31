@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.parthdave.nearbysearch.ui.activity.SearchNearByPlaces">
+
+    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:id="@+id/map"
+              android:name="com.google.android.gms.maps.SupportMapFragment"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom">
+
+
+        <Button
+            android:id="@+id/btnRestorentFind"
+            android:onClick="onRestorentFindClick"
+            android:text="Nearby Restaurants"
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:enabled="false"
+            android:layout_height="wrap_content"/>
+
+
+        <Button
+            android:id="@+id/btnHospitalFind"
+            android:onClick="onHospitalsFindClick"
+            android:text="Nearby Hospitals"
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:enabled="false"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+
+</FrameLayout>
