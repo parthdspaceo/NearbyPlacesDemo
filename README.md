@@ -1,8 +1,8 @@
 #Setting up Project
-<img src="./captures/project_setup.png"/>
-<img src="./captures/project_setup.png"/>
-<img src="./captures/project_activity_selection.png"/>
-<img src="./captures/project_activity_name.png"/>
+<img src="./captures/project_setup.png" width="30%" height="30%"/>
+<img src="./captures/project_setup.png" width="30%" height="30%"/>
+<img src="./captures/project_activity_selection.png" width="30%" height="30%"/>
+<img src="./captures/project_activity_name.png" width="30%" height="30%"/>
 
 # Near By Search
 Steps 5:
@@ -135,4 +135,4 @@ Api call for finding places:
 ````
 
 
-<img src="./captures/Restaurants.png"/>
+<img src="./captures/Restaurants.png" width="30%" height="30%"/>
