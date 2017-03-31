@@ -1,8 +1,12 @@
 #Setting up Project
 <img src="./captures/project_setup.png" width="30%" height="30%"/>
+<br/>
 <img src="./captures/project_setup.png" width="30%" height="30%"/>
+<br/>
 <img src="./captures/project_activity_selection.png" width="30%" height="30%"/>
+<br/>
 <img src="./captures/project_activity_name.png" width="30%" height="30%"/>
+<br/>
 
 # Near By Search
 Steps 5:
