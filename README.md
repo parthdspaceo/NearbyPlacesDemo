@@ -1,13 +1,13 @@
 Setting up Project
 ---------------------------
 <br/>
-<img src="./captures/project_setup.png" width="80%" height="80%"/>
+<img src="./captures/project_setup.png" width="100%" height="100%"/>
 <br/>
-<img src="./captures/project_setup.png" width="80%" height="80%"/>
+<img src="./captures/project_setup.png" width="100%" height="100%"/>
 <br/>
-<img src="./captures/project_activity_selection.png" width="80%" height="80%"/>
+<img src="./captures/project_activity_selection.png" width="100%" height="100%"/>
 <br/>
-<img src="./captures/project_activity_name.png" width="80%" height="80%"/>
+<img src="./captures/project_activity_name.png" width="100%" height="100%"/>
 <br/>
 
 # Near By Search
